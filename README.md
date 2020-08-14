@@ -1,5 +1,5 @@
 # responsive-digital-agency-site
-It created by bootstrap 4,javascript
+It created by bootstrap 4 & javascript
 
 
 screenshot:
